@@ -12,4 +12,4 @@
 - update module to use Python 3
 
 ### Version 2.2.1
-- Simple version update in UI and Python dependencies updated to 3.8.0
+- Simple version update in UI and Python dependencies updated to 2.2.1
